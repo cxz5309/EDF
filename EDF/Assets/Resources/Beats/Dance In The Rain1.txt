@@ -1,0 +1,10 @@
+﻿Dance In The Rain
+WHOwho (후후); 
+Dance In The Rain
+keySoundName
+0.1
+10
+125
+5
+00211110
+11200001

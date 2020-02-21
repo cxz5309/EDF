@@ -1,0 +1,13 @@
+﻿title
+artist
+backgroundSoundName
+keySoundName
+0
+0
+120
+00010222
+11101222
+10000001
+01110110
+34444443
+03444430

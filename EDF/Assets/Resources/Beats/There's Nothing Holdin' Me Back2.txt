@@ -1,0 +1,20 @@
+﻿There's Nothing Holdin' Me Back
+Shawn Mendes
+There's Nothing Holdin' Me Back
+keySoundName
+0.2
+20
+122
+5
+00000020
+11100121
+10001211
+01010200
+00212010
+11202111
+10001110
+01110001
+00210110
+11200001
+10000000
+01110100
